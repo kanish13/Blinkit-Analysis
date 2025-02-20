@@ -44,5 +44,5 @@ The dataset used for this analysis contains:
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📞 Contact
-For any queries, reach out via [your email] or connect on [LinkedIn profile].
+For any queries, reach out via [radhakanish@gmail.com] or connect on [[LinkedIn profile](https://www.linkedin.com/in/kanishka-r-032443219/)].
 
